@@ -1,1 +1,1 @@
-# Array.prototype.map
+Prompt: https://frontendeval.com/questions/array-prototype-map
